@@ -4,8 +4,6 @@ Méthodologie EBIOS RM sous format Excel.
 
 # Details 
 
-Voici quelques détails concernant les onglets du tableau :
-
 - Pyramide management risque (approche de management du risque numérique adopté par la méthode EBIOS RM. 
 - Ateliers (Description des 5 ateliers)
 - Cadre de l'étude (Pourquoi mener cette étude? Quand? Participants?) 
